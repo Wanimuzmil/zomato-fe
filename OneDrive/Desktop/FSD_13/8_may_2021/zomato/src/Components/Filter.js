@@ -4,7 +4,6 @@ import queryString from 'query-string';
 import { withRouter } from 'react-router-dom';
 
 import '../Styles/search.css';
-
 const constants = require('../constants');
 const API_URL = constants.API_URL;
 
