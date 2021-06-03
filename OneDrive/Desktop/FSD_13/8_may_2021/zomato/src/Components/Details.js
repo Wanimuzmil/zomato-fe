@@ -144,7 +144,7 @@ class Details extends Component {
         }
         const data = {
             amount: this.state.totalPrice,
-            email: 'XXXXXXXX@gmail.com',
+            email: 'wanimuzamil459@gmail.com',
             mobileNo: '9999999999'
         };
         this.getCheckSum(data)
